@@ -15,9 +15,19 @@
     "user": "1"
   },
   {
+    "type": "blocked",
+    "message": "blocked successfully",
+    "user": "1"
+  },
+  {
     "type": "chat-message",
     "message": "sounds like a inside joke",
     "user": "3"
+  },
+  {
+    "type": "join-chat",
+    "message": "joined successfully",
+    "user": "4"
   },
   {
     "type": "chat-message",
