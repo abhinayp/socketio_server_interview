@@ -1,5 +1,7 @@
 const server = require('http').createServer();
 const io = require('socket.io')(server);
+const { triggerEventInLoop } = require('./mock/index')
+
 io.on('connection', client => {
   console.log('connected');
   client.on('event', data => { /* … */ });
@@ -10,3 +12,7 @@ io.on('connection', client => {
   });
 });
 server.listen(3000);
+
+
+// trigger mock event
+triggerEventInLoop()

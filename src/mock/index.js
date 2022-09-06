@@ -30,4 +30,6 @@ const triggerEventInLoop = async () => {
   }
 }
 
-triggerEventInLoop()
+// triggerEventInLoop()
+
+module.exports = { triggerEventInLoop }
