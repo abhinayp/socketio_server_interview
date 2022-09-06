@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "username": "johndoe"
+  },
+  {
+    "id": 2,
+    "name": "Mike Doe",
+    "username": "mikedoe"
+  },
+  {
+    "id": 3,
+    "name": "Allen Smith",
+    "username": "allensmith"
+  },
+  {
+    "id": 4,
+    "name": "Leo Messi",
+    "username": "leomessi"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "chat-message",
+    "message": "LOL!!",
+    "user": "1"
+  },
+  {
+    "type": "chat-message",
+    "message": "What's so funny?",
+    "user": "2"
+  },
+  {
+    "type": "chat-message",
+    "message": "Nothing, you wouldn't get it.",
+    "user": "1"
+  },
+  {
+    "type": "chat-message",
+    "message": "sounds like a inside joke",
+    "user": "3"
+  },
+  {
+    "type": "chat-message",
+    "message": "Knock knock",
+    "user": "4"
+  },
+  {
+    "type": "chat-message",
+    "message": "Who's there?",
+    "user": "2"
+  }
+]
