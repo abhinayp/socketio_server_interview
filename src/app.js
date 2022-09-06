@@ -11,7 +11,7 @@ io.on('connection', client => {
   client.on('event', data => { /* … */ });
   client.on('disconnect', () => { /* … */ });
   client.onAny((event, args) => {
-    client.emit(event, args)
+    io.of('/').emit(event, args)
     console.log(`got ${event}`);
     console.log(JSON.stringify(args));
   });
