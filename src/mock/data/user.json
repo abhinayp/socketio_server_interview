@@ -2,21 +2,25 @@
   {
     "id": 1,
     "name": "John Doe",
-    "username": "johndoe"
+    "username": "johndoe",
+    "color": "#D3742A"
   },
   {
     "id": 2,
     "name": "Mike Doe",
-    "username": "mikedoe"
+    "username": "mikedoe",
+    "color": "#2AD334"
   },
   {
     "id": 3,
     "name": "Allen Smith",
-    "username": "allensmith"
+    "username": "allensmith",
+    "color": "#2AA5D3"
   },
   {
     "id": 4,
     "name": "Leo Messi",
-    "username": "leomessi"
+    "username": "leomessi",
+    "color": "#BF2AD3"
   }
 ]
